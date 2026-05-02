@@ -1,0 +1,10 @@
+INSERT INTO course (course_name, credits) VALUES ('Math', 4);
+INSERT INTO course (course_name, credits) VALUES ('Physics', 3);
+INSERT INTO course (course_name, credits) VALUES ('Chemistry', 3);
+INSERT INTO course (course_name, credits) VALUES ('Biology', 3);
+INSERT INTO course (course_name, credits) VALUES ('Computer Science', 5);
+INSERT INTO course (course_name, credits) VALUES ('English', 2);
+INSERT INTO course (course_name, credits) VALUES ('Economics', 3);
+INSERT INTO course (course_name, credits) VALUES ('Statistics', 4);
+INSERT INTO course (course_name, credits) VALUES ('AI', 5);
+INSERT INTO course (course_name, credits) VALUES ('ML', 5);
